@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\university work\dsa-final-project\dsa-final-project\main.cpp(111): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+d:\university work\dsa-final-project\dsa-final-project\main.cpp(126): warning C4244: '=': conversion from '__int64' to 'long', possible loss of data
+  DSA-FINAL-PROJECT.vcxproj -> D:\University Work\DSA-FINAL-PROJECT\Debug\DSA-FINAL-PROJECT.exe
+  DSA-FINAL-PROJECT.vcxproj -> D:\University Work\DSA-FINAL-PROJECT\Debug\DSA-FINAL-PROJECT.pdb (Full PDB)
